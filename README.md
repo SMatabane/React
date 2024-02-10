@@ -7,5 +7,5 @@ HTML5
 CSS3
 JavaScript
 
-##Credits
+## Credits
 This project was inspired by the tutorials and insights shared by PedroTech's YouTube channel. The guidance provided by PedroTech played a significant role in the development of this project
